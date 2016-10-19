@@ -1,0 +1,20 @@
+
+h1{
+	text-decoration: underline;
+	text-align: center;
+	color: red;
+}
+.welcome{
+	color: white;
+}
+p{
+	text-align: justify;
+	line-height: 25px;
+	font-weight: bold;
+}
+body{
+	background-color: pink;
+}
+.sign{
+	margin-right: 10px;
+}
